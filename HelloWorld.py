@@ -5,3 +5,5 @@ for i in range(cantNumeros):
 print("La sumatoria es: ",sumatoria)
 
 print("Primer cambio para subir a GitHub")
+
+print("Segundo cambio de actualización")
